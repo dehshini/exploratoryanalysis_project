@@ -60,3 +60,9 @@ type (point, nonpoint, onroad, nonroad) variable, which of these four sources ha
 5. How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
 
 6. Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions?
+
+
+Each png plot answers each question.  
+The code for making the plot is in the corresponding R script.
+
+Note: The structure of the directories. The data is found in a folder called "data" in the working directory. 
