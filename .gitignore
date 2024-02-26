@@ -1,3 +1,5 @@
 data/Source_Classification_Code.rds
 data/summarySCC_PM25.rds
 .DS_Store
+.RData
+.Rhistory
